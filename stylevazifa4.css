@@ -1,0 +1,222 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.highness{
+    height: 41px;
+    width: 100%px;
+    background: #A6672B;
+    border-radius: 0px;
+    display: flex ;
+}
+.text1{
+height: 21px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+font-family: sans-serif;
+text-align: center;
+color: #FFFEF2;
+padding-top: 10px;
+justify-content: center;
+align-items: center;
+padding-left: 200px;
+
+}
+.text2{
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+text-align: center;
+padding-left: 00px;
+color: #FFFEF2;
+padding-top: 11px;
+justify-content: center;
+align-items: center;
+padding-left: 20px;
+
+}
+.highness2{
+    background: #252525;
+border-radius: 0px;
+height: 43px;
+width: 100%;
+}
+.highness2>p{
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+text-align: center;
+
+color: #FFFEF2;
+padding-top: 10px;
+}
+.imeg{
+margin-left: 30px;
+}
+.background_img{
+    background-image: url(/Rectangle.png);
+    height: 606px;
+    width: 100%;
+}
+.Einkaufen{
+    
+
+position: absolute;
+height: 24px;
+left: 8.33%;
+right: 78.12%;
+top: 100px;
+margin-left: 120px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 170% */
+
+color: #FFFEF2;
+
+
+}
+.lesen{
+position: absolute;
+height: 24px;
+left: 27.08%;
+right: 64.79%;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFEF2;
+margin-left: -20px;
+}
+.standorte{
+position: absolute;
+height: 24px;
+left: 40.42%;
+right: 46.04%;
+top: 100px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFEF2;
+margin-left: -100px;
+}
+.Suchen{
+position: absolute;
+height: 24px;
+left: 59.17%;
+right: 30.62%;
+top: 100px;
+margin-left: -225px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFEF2;
+}
+.Anmelden{
+position: absolute;
+height: 24px;
+left: 56.88%;
+right: 29.17%;
+top: 100px;
+margin-left: 410px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #FFFEF2;
+}
+.Warenkorb{
+position: absolute;
+width: 70px;
+height: 24px;
+left: calc(50% - 70px/2 + 165px);
+top: 100px;
+margin-left: 450px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 170% */
+text-align: center;
+color: #FFFEF2;
+}
+.text3{
+position: absolute;
+height: 80px;
+left: 0%;
+right: 1.5%;
+top: 200px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+color: #FFFEF2;
+margin-left: 200px;
+}
+.text4{
+position: absolute;
+height: 80px;
+left: 0%;
+right: 1.5%;
+top: 240px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+color: #FFFEF2;
+margin-left: 200px;
+}
+.text5{
+position: absolute;
+height: 109px;
+left: 0%;
+right: -0.5%;
+top: 296px;
+width: 380px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 27px;
+color: #FFFEF2;
+margin-left: 200px;
+}
+.imeg3{
+    height: 720px;
+    width: 629px;
+    background-color: #cfc7c0;
+    margin-left: 720px;
+    margin-top: -724px;
+}
+.imeg3>img{
+font-family: Roboto;
+font-size: 16px;
+text-align: center;
+color: #333333;
+padding-top: 40px;
+padding-left: 500px;
+}
+.line1>img{
+    background-color: #333333;
+    margin-left: 500px;
+}
+.rectanglethree{
+    padding-top: 80px;
+    display: flex;
+}
